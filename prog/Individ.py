@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def perimeter_decorator(func):
     """
     Декоратор для вывода сообщения о периметре фигуры.
